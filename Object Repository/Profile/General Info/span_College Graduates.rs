@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_College Graduates</name>
+   <tag></tag>
+   <elementGuidId>6e0cb8d0-42ab-4a2c-8e74-9cea57fe3405</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ab058cafa70d-1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ab058cafa70d-1 > span.ng-option-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>08ce3574-77d6-4693-89c8-eef145d6c633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-option-label</value>
+      <webElementGuid>14b31b2a-fa03-4431-993d-ec6c36a423f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>College Graduates</value>
+      <webElementGuid>36d21cfb-51b8-42d4-9662-243e5a38fd99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ab058cafa70d-1&quot;)/span[@class=&quot;ng-option-label&quot;]</value>
+      <webElementGuid>88e39913-3e0e-4782-abd0-62fca0f42a3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ab058cafa70d-1']/span</value>
+      <webElementGuid>a1d2f949-bcbc-4ba4-b66f-7ba68baace75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='College'])[1]/following::span[1]</value>
+      <webElementGuid>104af0e4-6113-448b-ade6-3af5900a5634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Highschool Graduates'])[1]/preceding::span[1]</value>
+      <webElementGuid>6516700b-ab21-4c48-8d98-f840d3edc362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='College Graduates']/parent::*</value>
+      <webElementGuid>d0ea2118-4508-4dc5-83ac-db455f2f73b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel/div/div[2]/div[2]/span</value>
+      <webElementGuid>ad6bd4f9-beca-46d3-8d2c-04ca9c8e961d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'College Graduates' or . = 'College Graduates')]</value>
+      <webElementGuid>fe1d3184-e00d-4152-9a00-e162dbde0f72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
